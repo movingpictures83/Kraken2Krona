@@ -1,0 +1,2 @@
+Prefix plugins/Kraken2Krona/example
+Plugin Kraken2Krona inputfile final_pure_reads.kraken2 outputfile output.krona
